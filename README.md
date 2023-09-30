@@ -23,5 +23,3 @@ Preprocessed the data to ensure accuracy and consistency, and identified and vis
 
 ## Dataset 
 https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
-
-Live Demo: https://oda-campusx.herokuapp.com/
